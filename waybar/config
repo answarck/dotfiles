@@ -12,6 +12,7 @@
     "format": "{:%I:%M — %d/%m/%y}"
   },
 
+
   "cpu": {
     "format": "CPU {usage}%"
   },
@@ -24,6 +25,7 @@
     "format": "VOL {volume}%",
     "format-muted": "MUTED"
   },
+
 
   "network": {
     "format-wifi": "{essid}",
